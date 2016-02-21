@@ -1,3 +1,4 @@
+// Include the library:
 #include <MLX90614.h>
 
 // Instantiate a sensor object:

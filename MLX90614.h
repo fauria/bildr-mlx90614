@@ -1,7 +1,7 @@
 /*
  * MLX90614.cpp - Arduino library for the MLX90614 temperature sensor.
  * Adapted by Fer Uría <fauria@gmail.com>
- * Based on 'Is it hot? Arduino + MLX90614 IR Thermometer'. See http://bildr.org/2011/02/mlx90614-arduino/ http://bildr.org/2011/02/mlx90614-arduino/ 
+ * Based on "Is it hot? Arduino + MLX90614 IR Thermometer". See http://bildr.org/2011/02/mlx90614-arduino
  * Depends on I2Cmaster library: http://wiki.wiring.co/images/3/31/I2Cmaster.zip 
 */
  
