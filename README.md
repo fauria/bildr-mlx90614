@@ -1,6 +1,6 @@
-# Arduino-MLX90614
+# Bildr-MLX90614
 
-Arduino-MLX90614 is a library used to read temperature from the Melexis MLX90614 temperature sensor. It is adapted from the work done by the [bildr](http://forum.bildr.org/index.php) community.
+Bildr-MLX90614 is a library used to read temperature from the Melexis MLX90614 temperature sensor. It is adapted from the work done by the [bildr](http://forum.bildr.org/index.php) community.
 
 ## Installation
 Download the library, unzipit, and place the `Bildr-MLX90614` folder under your `Arduino/libraries` directory.
@@ -20,7 +20,7 @@ You can try a working example opening `File / Examples / Bildr-MLX90614 / HelloW
 
 ```
 // Include the library:
-#include <MLX90614.h>
+#include <Bildr-MLX90614.h>
 
 // Instantiate a sensor object:
 MLX90614 sensor;
