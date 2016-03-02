@@ -1,5 +1,5 @@
 // Include the library:
-#include <MLX90614.h>
+#include <Bildr-MLX90614.h>
 
 // Instantiate a sensor object:
 MLX90614 sensor;
