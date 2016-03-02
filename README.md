@@ -6,13 +6,12 @@ Bildr-MLX90614 is a library used to read temperature from the Melexis MLX90614 t
 Download the library, unzipit, and place the `Bildr-MLX90614` folder under your `Arduino/libraries` directory.
 
 ## Dependencies
-The library depends on the I2C master library by Peter Fleury <pfleury@gmx.ch> ([download link](http://wiki.wiring.co/images/3/31/I2Cmaster.zip)). It is included from the `libraries/` folder
+The library depends on the I2C master library by Peter Fleury <pfleury@gmx.ch> ([download link](http://wiki.wiring.co/images/3/31/I2Cmaster.zip)). It is included from the `libraries/` folder.
 
 ## Usage
 First, conenct the sensor to your Arduino. This diagram might be helpful:
 
 ![MLX90614 diagram](https://raw.githubusercontent.com/fauria/arduino-mlx90614/master/Fritzing/MLX90614_bb.png)
-
 
 If you have a Grove Shield, you can build an [MLX90614 Grove Sensor](http://www.seeedstudio.com/recipe/1157-grove-mlx90614.html).
 
